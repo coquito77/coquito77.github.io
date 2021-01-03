@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome my websiste
 
-You can use the [editor on GitHub](https://github.com/coquito77/coquito77.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Moises Evangelista and this [git hub account](https://github.com/coquito77)  is where I have personal data analyses projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I mostly do my data analysis using R. Outside of my personal data analysis and research, I am a father of two children who I enjoy playing with and a wonderful wife.
 
-### Markdown
+I hope you find my site interesting!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interests
+Statistics and Economics
 
-```markdown
-Syntax highlighted code block
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+Masters in Business Administration , 2011
 
-- Bulleted
-- List
+Cal State San Bernardino
 
-1. Numbered
-2. List
+BA in Economics with a minor in Statistics, 2003
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coquito77/coquito77.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+University California, Riverside
